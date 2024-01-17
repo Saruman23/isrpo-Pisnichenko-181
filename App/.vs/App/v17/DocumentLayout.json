@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u043F\u043E\\\u043A\u0443\u0440\u0441\u0430\u0447\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__\u0423\u0427\u0415\u0411\u0410_3_\u041A\u0423\u0420\u0421_\u0422\u0415\u0425\u041D\u041E\u041B\u041E\u0413\u0418\u042F_\u0420\u0410\u0417\u0420\u0410\u0411\u041E\u0422\u041A\u0418_\u041F\u041E_\u041A\u0423\u0420\u0421\u0410\u0427_APP_APP_DATABASE1.MDF/True/SqlTable/dbo.\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__\u0423\u0427\u0415\u0411\u0410_3_\u041A\u0423\u0420\u0421_\u0422\u0415\u0425\u041D\u041E\u041B\u041E\u0413\u0418\u042F_\u0420\u0410\u0417\u0420\u0410\u0411\u041E\u0422\u041A\u0418_\u041F\u041E_\u041A\u0423\u0420\u0421\u0410\u0427_APP_APP_DATABASE1.MDF/True/SqlTable/dbo.\u0421\u0442\u0443\u0434\u0435\u043D\u0442\u044B.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__\u0423\u0427\u0415\u0411\u0410_3_\u041A\u0423\u0420\u0421_\u0422\u0415\u0425\u041D\u041E\u041B\u041E\u0413\u0418\u042F_\u0420\u0410\u0417\u0420\u0410\u0411\u041E\u0422\u041A\u0418_\u041F\u041E_\u041A\u0423\u0420\u0421\u0410\u0427_APP_APP_DATABASE1.MDF/True/SqlTable/dbo.\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u0438.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__\u0423\u0427\u0415\u0411\u0410_3_\u041A\u0423\u0420\u0421_\u0422\u0415\u0425\u041D\u041E\u041B\u041E\u0413\u0418\u042F_\u0420\u0410\u0417\u0420\u0410\u0411\u041E\u0422\u041A\u0418_\u041F\u041E_\u041A\u0423\u0420\u0421\u0410\u0427_APP_APP_DATABASE1.MDF/True/SqlTable/dbo.\u041F\u0440\u0435\u043F\u043E\u0434\u0430\u0432\u0430\u0442\u0435\u043B\u0438.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7BA6A2-C87A-4590-9D65-06B224CD28F9}|App\\App.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u043F\u043E\\\u043A\u0443\u0440\u0441\u0430\u0447\\app\\app\\test_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8B7BA6A2-C87A-4590-9D65-06B224CD28F9}|App\\App.csproj|solutionrelative:app\\test_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B7BA6A2-C87A-4590-9D65-06B224CD28F9}|App\\App.csproj|D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u043F\u043E\\\u043A\u0443\u0440\u0441\u0430\u0447\\App\\app\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B7BA6A2-C87A-4590-9D65-06B224CD28F9}|App\\App.csproj|solutionrelative:app\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 1426,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.\u041F\u0440\u0435\u043F\u043E\u0434\u0430\u0432\u0430\u0442\u0435\u043B\u0438 [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__\u0423\u0427\u0415\u0411\u0410_3_\u041A\u0423\u0420\u0421_\u0422\u0415\u0425\u041D\u041E\u041B\u041E\u0413\u0418\u042F_\u0420\u0410\u0417\u0420\u0410\u0411\u041E\u0422\u041A\u0418_\u041F\u041E_\u041A\u0423\u0420\u0421\u0410\u0427_APP_APP_DATABASE1.MDF/True/SqlTable/dbo.\u041F\u0440\u0435\u043F\u043E\u0434\u0430\u0432\u0430\u0442\u0435\u043B\u0438.sql",
+              "ToolTip": "dbo.\u041F\u0440\u0435\u043F\u043E\u0434\u0430\u0432\u0430\u0442\u0435\u043B\u0438 [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2023-12-14T09:49:01.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__\u0423\u0427\u0415\u0411\u0410_3_\u041A\u0423\u0420\u0421_\u0422\u0415\u0425\u041D\u041E\u041B\u041E\u0413\u0418\u042F_\u0420\u0410\u0417\u0420\u0410\u0411\u041E\u0422\u041A\u0418_\u041F\u041E_\u041A\u0423\u0420\u0421\u0410\u0427_APP_APP_DATABASE1.MDF/True/SqlTable/dbo.\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F.sql",
+              "ToolTip": "dbo.\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2023-12-14T09:48:41.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u0438 [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__\u0423\u0427\u0415\u0411\u0410_3_\u041A\u0423\u0420\u0421_\u0422\u0415\u0425\u041D\u041E\u041B\u041E\u0413\u0418\u042F_\u0420\u0410\u0417\u0420\u0410\u0411\u041E\u0422\u041A\u0418_\u041F\u041E_\u041A\u0423\u0420\u0421\u0410\u0427_APP_APP_DATABASE1.MDF/True/SqlTable/dbo.\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u0438.sql",
+              "ToolTip": "dbo.\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u0438 [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2023-12-14T09:48:32.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbo.\u0421\u0442\u0443\u0434\u0435\u043D\u0442\u044B [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/D__\u0423\u0427\u0415\u0411\u0410_3_\u041A\u0423\u0420\u0421_\u0422\u0415\u0425\u041D\u041E\u041B\u041E\u0413\u0418\u042F_\u0420\u0410\u0417\u0420\u0410\u0411\u041E\u0422\u041A\u0418_\u041F\u041E_\u041A\u0423\u0420\u0421\u0410\u0427_APP_APP_DATABASE1.MDF/True/SqlTable/dbo.\u0421\u0442\u0443\u0434\u0435\u043D\u0442\u044B.sql",
+              "ToolTip": "dbo.\u0421\u0442\u0443\u0434\u0435\u043D\u0442\u044B [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2023-12-14T09:47:49.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Test_1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u043F\u043E\\\u043A\u0443\u0440\u0441\u0430\u0447\\App\\App\\Test_1.cs",
+              "RelativeDocumentMoniker": "App\\Test_1.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u043F\u043E\\\u043A\u0443\u0440\u0441\u0430\u0447\\App\\App\\Test_1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "App\\Test_1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T05:00:02.176Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DB.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u043F\u043E\\\u043A\u0443\u0440\u0441\u0430\u0447\\App\\App\\DB.cs",
+              "RelativeDocumentMoniker": "App\\DB.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0442\u0435\u0445\u043D\u043E\u043B\u043E\u0433\u0438\u044F \u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0438 \u043F\u043E\\\u043A\u0443\u0440\u0441\u0430\u0447\\App\\App\\DB.cs",
+              "RelativeToolTip": "App\\DB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-30T04:39:39.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

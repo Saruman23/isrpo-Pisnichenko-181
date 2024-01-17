@@ -1,0 +1,30 @@
+D:\политех\2023\Telega\App\App\bin\Debug\Database1.mdf
+D:\политех\2023\Telega\App\App\bin\Debug\Database1_log.ldf
+D:\политех\2023\Telega\App\App\bin\Debug\App.exe.config
+D:\политех\2023\Telega\App\App\bin\Debug\App.exe
+D:\политех\2023\Telega\App\App\bin\Debug\App.pdb
+D:\политех\2023\Telega\App\App\obj\Debug\App.csproj.AssemblyReference.cache
+D:\политех\2023\Telega\App\App\obj\Debug\App.Properties.Resources.resources
+D:\политех\2023\Telega\App\App\obj\Debug\App.csproj.GenerateResource.cache
+D:\политех\2023\Telega\App\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+D:\политех\2023\Telega\App\App\obj\Debug\App.exe
+D:\политех\2023\Telega\App\App\obj\Debug\App.pdb
+D:\политех\2023\Telega\App\App\obj\Debug\App.FormLogin.resources
+D:\политех\2023\Telega\App\App\obj\Debug\App.FormMain.resources
+D:\политех\2023\Telega\App\App\obj\Debug\App.Test_1.resources
+D:\политех\2023\Telega\App\App\obj\Debug\App.Test_2.resources
+D:\Учеба\3 курс\технология разработки по\курсач\App\App\bin\Debug\Database1.mdf
+D:\Учеба\3 курс\технология разработки по\курсач\App\App\bin\Debug\Database1_log.ldf
+D:\Учеба\3 курс\технология разработки по\курсач\App\App\bin\Debug\App.exe.config
+D:\Учеба\3 курс\технология разработки по\курсач\App\App\bin\Debug\App.exe
+D:\Учеба\3 курс\технология разработки по\курсач\App\App\bin\Debug\App.pdb
+D:\Учеба\3 курс\технология разработки по\курсач\App\App\obj\Debug\App.csproj.AssemblyReference.cache
+D:\Учеба\3 курс\технология разработки по\курсач\App\App\obj\Debug\App.FormLogin.resources
+D:\Учеба\3 курс\технология разработки по\курсач\App\App\obj\Debug\App.FormMain.resources
+D:\Учеба\3 курс\технология разработки по\курсач\App\App\obj\Debug\App.Properties.Resources.resources
+D:\Учеба\3 курс\технология разработки по\курсач\App\App\obj\Debug\App.Test_1.resources
+D:\Учеба\3 курс\технология разработки по\курсач\App\App\obj\Debug\App.Test_2.resources
+D:\Учеба\3 курс\технология разработки по\курсач\App\App\obj\Debug\App.csproj.GenerateResource.cache
+D:\Учеба\3 курс\технология разработки по\курсач\App\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+D:\Учеба\3 курс\технология разработки по\курсач\App\App\obj\Debug\App.exe
+D:\Учеба\3 курс\технология разработки по\курсач\App\App\obj\Debug\App.pdb
